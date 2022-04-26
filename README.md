@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
 <br/>
 <br/>
 
@@ -36,6 +37,10 @@
 - TMDB API 활용
 
 - .env 파일을 통한 API key 보안화
+
+### Distribution
+
+- Netlify를 통한 배포
 
 ### Misc
 
